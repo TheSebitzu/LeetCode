@@ -9,9 +9,11 @@ I will be using python3 and will not care about memory and time because it varie
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TheSebitzu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TheSebitzu/LeetCode/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TheSebitzu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TheSebitzu/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
