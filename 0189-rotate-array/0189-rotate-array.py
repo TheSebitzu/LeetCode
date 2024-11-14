@@ -6,4 +6,4 @@ class Solution:
         k = k % len(nums)
 
         if k:
-            nums[:-k], nums[-k:] = nums[-k:], nums[:-k]
+            nums[:] = nums[-k:] + nums[:-k]
