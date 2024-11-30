@@ -33,6 +33,7 @@ I will be using python3 and will use recommended complexity
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/TheSebitzu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/TheSebitzu/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -50,6 +51,7 @@ I will be using python3 and will use recommended complexity
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/TheSebitzu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/TheSebitzu/LeetCode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -79,4 +81,8 @@ I will be using python3 and will use recommended complexity
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TheSebitzu/LeetCode/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/TheSebitzu/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
